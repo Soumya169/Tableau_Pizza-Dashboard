@@ -12,4 +12,4 @@ Explore the visualizations embedded in the HTML files or on Tableau Public:
 - **Home Dashboard** – Summary of KPIs, revenue, and orders.
 - **Best/Worst Sellers** – Visual analysis of high-performing and underperforming pizza types.
 
-> ✅ **Live Link** (optional): [View on Tableau Public](https://public.tableau.com/)
+> ✅ **Live Link** : [View on Tableau Public]([https://public.tableau.com/](https://public.tableau.com/views/PizzaSalesReport_17478334166580/Home?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
